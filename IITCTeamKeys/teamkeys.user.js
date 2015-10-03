@@ -36,7 +36,7 @@ function wrapper() {
     // empty cache to hold portal and user names
     self.cache = {};
     // server script to sync with
-    self.server = "https://terrance.uk.to/labs/teamkeys.php";
+    self.server = "https://trussellnetcom.ipage.com/batttienet/lab/teamkeys.php";
     // fetch a portal name from a cached list if available
     self.getPortalName = function getPortalName(portal) {
         // try plugin cache
